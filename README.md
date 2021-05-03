@@ -1,5 +1,8 @@
 # bulk-pdf2word-converter
-Bulk Pdf2Word Converter
+Bulk Pdf2Word Converter coded with Python 3.9.0 and tkinter. 
+
+GUI designed with PAGE but I modified most part
+of the generated code. 
 
 
 Bulk pdf2word let you convert mutliple pdf file(s) with high quality and 100% precision in few seconds.
