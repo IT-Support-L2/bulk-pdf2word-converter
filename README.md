@@ -5,7 +5,7 @@ GUI designed with PAGE but I modified most part
 of the generated code. 
 
 
-Bulk pdf2word let you convert mutliple pdf file(s) with high quality and 100% precision in few seconds.
+Bulk pdf2word let you convert mutliple pdf files with high quality and 100% precision in few seconds.
 
 
 - What should I input in Files Directory Entry?
