@@ -28,5 +28,5 @@ Bulk pdf2word let you convert mutliple pdf file(s) with high quality and 100% pr
            Each doc file will take the filename of its correspondent pdf file.
            
            
-           ![pdf2word.gif](https://github.com/IT-Support-L2/bulk-pdf2word-converter/blob/main/pdf2word.gif)
+  ![pdf2word.gif](https://github.com/IT-Support-L2/bulk-pdf2word-converter/blob/main/pdf2word.gif)
            
