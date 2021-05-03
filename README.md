@@ -10,7 +10,7 @@ Bulk pdf2word let you convert mutliple pdf file(s) with high quality and 100% pr
              You should input the directory of your pdf files folder.
 
 
-          - Correct input: ```C:/Users/user/Desktop/folder/```
+          - Correct input: `C:/Users/user/Desktop/folder/`
 
           * Important: A front-slash must be at the end of the directory!
 
