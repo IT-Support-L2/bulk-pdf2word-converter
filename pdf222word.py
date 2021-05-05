@@ -234,6 +234,7 @@ class App:
                         cv.convert(docx_files, start=0, end=None)
                         cv.close()
                         self.output_msg.configure(text='''Done!''')
+                        self.start_btn.config(text="Start", command=self.startthread)
 
         except OSError:
             self.output_msg.configure(text="Looks like you had wrong input Please check your inputs and try again!")
