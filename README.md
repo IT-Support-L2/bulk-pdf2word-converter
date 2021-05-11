@@ -34,6 +34,8 @@ Bulk pdf2word let you convert mutliple pdf files with high quality and 100% prec
    To successfully compile the code into Windows executable, while you are in the pdf2word.py directory run:
 
    `pyinstaller --noconsole pdf2word.py`  
+   
+   or simply install it using the provided setup.
            
   ![pdf2word.gif](https://github.com/IT-Support-L2/bulk-pdf2word-converter/blob/main/pdf2word.gif)
            
